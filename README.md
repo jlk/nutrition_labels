@@ -8,4 +8,4 @@ The idea here is how can we provide transparency into open source projects by cl
 
 Here's one example of a security nutrition label:
 
-![Terrascan security nutrition label](terrascan-label-yaml.png)
+![Security facts label mockup](security_facts_label_mockup.png)
